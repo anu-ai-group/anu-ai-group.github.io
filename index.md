@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## ANU AI Reading Group
 
-You can use the [editor on GitHub](https://github.com/anu-ai-group/anu-ai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the ANU AI reading group. Every week, this reading group will discuss a paper that falls under the general category of artificial intelligence (AI). Some examples of such topics include deep learning, machine learning, reinforcement learning. 
+The reading group is held in the Alan Turing Room, CSIT Building every Friday at 12:30pm. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Presentation List
 
-### Markdown
+15.06.19:
+To be confirmed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+07.06.19:
+[Compress and Control](https://arxiv.org/abs/1411.5326)
 
-```markdown
-Syntax highlighted code block
+31.05.19:
+[Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/abs/1803.04765)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### To Read:
 
-[Link](url) and ![Image](src)
-```
+- [Verification of Non-Linear Specifications for Neural Networks](https://arxiv.org/pdf/1902.09592.pdf)
+- [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
+- [Sampling Can Be Faster Than Optimisation](https://arxiv.org/abs/1811.08413)
+- [Training Neural Networks Without Gradients: A Scalable ADMM Approach](https://arxiv.org/abs/1605.02026)
+- [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anu-ai-group/anu-ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
