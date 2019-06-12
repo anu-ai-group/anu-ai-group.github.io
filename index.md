@@ -6,7 +6,7 @@ The reading group is held in the Alan Turing Room, CSIT Building every Friday at
 #### Presentation List
 
 15.06.19:
-To be confirmed.
+[Online learning with Gated Linear Networks](https://arxiv.org/abs/1712.01897)
 
 07.06.19:
 [Compress and Control](https://arxiv.org/abs/1411.5326)
