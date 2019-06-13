@@ -24,5 +24,5 @@ The reading group is held in the Alan Turing Room, CSIT Building every Friday at
 - [Sampling Can Be Faster Than Optimisation](https://arxiv.org/abs/1811.08413)
 - [Training Neural Networks Without Gradients: A Scalable ADMM Approach](https://arxiv.org/abs/1605.02026)
 - [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)
-
+- [GAZELLE: A Low Latency Framework for Secure Neural Network Inference](https://eprint.iacr.org/2018/073.pdf)
 
