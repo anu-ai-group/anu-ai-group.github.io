@@ -25,4 +25,8 @@ The reading group is held in the Alan Turing Room, CSIT Building every Friday at
 - [Training Neural Networks Without Gradients: A Scalable ADMM Approach](https://arxiv.org/abs/1605.02026)
 - [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)
 - [GAZELLE: A Low Latency Framework for Secure Neural Network Inference](https://eprint.iacr.org/2018/073.pdf)
+- [Membership Inference Attacks against Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568)
+- [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/pdf/1806.01246.pdf)
+- [Machine Learning with Membership Privacy using Adversarial Regularization](https://arxiv.org/pdf/1807.05852.pdf)
+ 
 
